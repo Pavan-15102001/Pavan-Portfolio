@@ -3,7 +3,7 @@
 This is my responsive developer portfolio website built using **HTML, CSS, and JavaScript**. It showcases my projects, skills, education, certifications, and work experience, all wrapped in a modern, minimal design.
 
 ## 🚀 Live Demo
-[View Portfolio](https://pavan-15102001.github.io/personal-portfolio/) <!-- Replace with actual link -->
+[View Portfolio](https://pavan-15102001.github.io/Pavan-Portfolio/) <!-- Replace with actual link -->
 
 ---
 
@@ -57,7 +57,7 @@ This is my responsive developer portfolio website built using **HTML, CSS, and J
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/pavan-15102001/personal-portfolio.git
+   git clone https://github.com/pavan-15102001/Pavan-Portfolio.git
    ```
 2. Open `index.html` in a browser (preferably via Live Server).
 3. Edit content to your liking:
@@ -75,7 +75,7 @@ This is my responsive developer portfolio website built using **HTML, CSS, and J
 3. Under **Branch**, select `main` and root
 4. Your portfolio will be live at:
    ```
-   https://pavan-15102001.github.io/personal-portfolio/
+   https://pavan-15102001.github.io/Pavan-Portfolio/
    ```
 
 ---
